@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dwaipayan Sardar
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN Stack Development
+- 🌱 I’m currently working as Software Development Intern at Vitra.ai
 - 📫 Reach me- dsardar099@gmail.com
 <!--- - 💞️ I’m looking to collaborate on --->
 <!---
